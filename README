@@ -1,2 +1,5 @@
-I added this at first but it got deleted.
+//I added this at first but it got deleted.
 Also do not use "git push -f origin master" as you lose some of the commits done directly on the remote repository.
+// The lines having "//" at the beginning were added from the local "repo" 
+// If the local and the faraway repos are not consistent, then obviously git push cannot be performed as it can overwrite the faraway repo
+// So we need to git pull and make our repo consistent with the faraway one

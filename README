@@ -1,1 +1,2 @@
 I added this at first but it got deleted.
+Also do not use "git push -f origin master" as you lose some of the commits done directly on the remote repository.
